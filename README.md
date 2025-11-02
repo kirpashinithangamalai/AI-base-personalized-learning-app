@@ -1,4 +1,4 @@
-# 🧠 AI-Based Personalized Learning App
+#  AI-Based Personalized Learning App
 ## Figma UX/UI Design Project
 
 [![Figma Badge](https://img.shields.io/badge/View_on_Figma-000000?style=for-the-badge&logo=figma&logoColor=red)](https://www.figma.com/design/XhywOg6sDCm0nEswhzank0/AI-based-personalized-learning-app?node-id=0-1&p=f)
